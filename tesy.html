@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .profile-img {
+          width: 200px;
+          height: 200px;
+          background-size: cover;
+          background-position: center;
+          border: 1px solid #ccc;
+        }
+      </style>
+</head>
+<body>
+    
+      
+      <div class="profile-img" id="preview"></div>
+      <input type="file" id="image-preview" name="image" class="file-input" required="" oninvalid="this.setCustomValidity('Select an image')" oninput="this.setCustomValidity('')">
+      
+      <script>
+        const imagePreview = document.getElementById('image-preview');
+        const preview = document.getElementById('preview');
+      
+        imagePreview.addEventListener('change', function() {
+          const file = imagePreview.files[0];
+          const reader = new FileReader();
+      
+          reader.addEventListener('load', function() {
+            preview.style.backgroundImage = `url(${reader.result})`;
+          });
+      
+          if (file) {
+            reader.readAsDataURL(file);
+          }
+        });
+      </script>
+</body>
+</html>
