@@ -117,7 +117,7 @@ $pageTitle="home| educate"
                     <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab corporis suscipit assumenda pariatur quasi, a corrupti eius ut officiis voluptatem tempora accusantium dolores facere?
                     </p>
-                    <a href="https://lalitsingh07.github.io/portfolio/" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    <a href="https://" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
                 </div>
         </span> 
 
@@ -128,7 +128,7 @@ $pageTitle="home| educate"
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab corporis suscipit assumenda pariatur quasi, a corrupti eius ut officiis voluptatem tempora accusantium dolores facere?
                 </p>
-                <a href="https://www.linkedin.com/in/sandeep-singh-rawat-082333217" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                <a href="https://www.linkedin.co" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
             </div>  
         </span>
 
@@ -139,18 +139,18 @@ $pageTitle="home| educate"
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab corporis suscipit assumenda pariatur quasi, a corrupti eius ut officiis voluptatem tempora accusantium dolores facere?
                 </p>
-                <a href="https://www.linkedin.com/in/nimisha-pandey-629b17216" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
             </div>
         </span>
 
         <span class="dev">
             <img src="./assets/meme4.jpg" alt="">
             <div class="layer">
-                <h3>Taniya Gariya</h3>
+                <h3>Taniya gariya</h3>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab corporis suscipit assumenda pariatur quasi, a corrupti eius ut officiis voluptatem tempora accusantium dolores facere?
                 </p>
-                <a href="https://www.linkedin.com/in/taniyagariya" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                <a href="https://www.linkedin.com" target="_blank"><i class="fa-solid fa-arrow-up-right-from-square"></i></a>
             </div>
         </span>   
     </div>
